@@ -24,6 +24,7 @@
 		CCB3720118D731C500B02D03 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CCB371FF18D731C500B02D03 /* InfoPlist.strings */; };
 		CCB3720318D731C500B02D03 /* KVOControllerTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CCB3720218D731C500B02D03 /* KVOControllerTestTests.m */; };
 		CCB3720E18D7343F00B02D03 /* CurrentTimer.m in Sources */ = {isa = PBXBuildFile; fileRef = CCB3720D18D7343F00B02D03 /* CurrentTimer.m */; };
+		E6954408190238C700DA2A04 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E6954407190238C700DA2A04 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		CCB3720218D731C500B02D03 /* KVOControllerTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KVOControllerTestTests.m; sourceTree = "<group>"; };
 		CCB3720C18D7343F00B02D03 /* CurrentTimer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CurrentTimer.h; sourceTree = "<group>"; };
 		CCB3720D18D7343F00B02D03 /* CurrentTimer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CurrentTimer.m; sourceTree = "<group>"; };
+		E6954407190238C700DA2A04 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +134,7 @@
 				CCB3720C18D7343F00B02D03 /* CurrentTimer.h */,
 				CCB3720D18D7343F00B02D03 /* CurrentTimer.m */,
 				CCB371EF18D731C500B02D03 /* Images.xcassets */,
+				E6954407190238C700DA2A04 /* README.md */,
 				CCB371DB18D731C500B02D03 /* Supporting Files */,
 			);
 			path = KVOControllerTest;
@@ -246,6 +249,7 @@
 			files = (
 				CCB371EB18D731C500B02D03 /* Main_iPad.storyboard in Resources */,
 				CCB371F018D731C500B02D03 /* Images.xcassets in Resources */,
+				E6954408190238C700DA2A04 /* README.md in Resources */,
 				CCB371E818D731C500B02D03 /* Main_iPhone.storyboard in Resources */,
 				CCB371DF18D731C500B02D03 /* InfoPlist.strings in Resources */,
 			);

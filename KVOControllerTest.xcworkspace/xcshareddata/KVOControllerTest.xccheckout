@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4DBB4B0A-CDA4-4FA2-ACDA-42A061F0E3B7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KVOControllerTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>65682EF9-2A9F-4CFE-9C7B-A0EAA9A31882</key>
+		<string>https://github.com/huangping123/KVOControllerTest-master.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KVOControllerTest.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>65682EF9-2A9F-4CFE-9C7B-A0EAA9A31882</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/huangping123/KVOControllerTest-master.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>65682EF9-2A9F-4CFE-9C7B-A0EAA9A31882</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>65682EF9-2A9F-4CFE-9C7B-A0EAA9A31882</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KVOControllerTest-master</string>
+		</dict>
+	</array>
+</dict>
+</plist>
